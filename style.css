@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/50\ Animated\ Gifs\ of\ Fighting\ Game\ Backgrounds\ TwistedSifter.gif);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
